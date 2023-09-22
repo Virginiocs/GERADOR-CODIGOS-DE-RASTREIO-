@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
+ 
+
+*{
+    font-family: "Poppins", "sans-serif";
+}
+body{
+
+background-color: #3D4159;
+}
+
+.box1{
+background-color: #61647E;
+align-items: center;
+justify-content: center;
+width: 70%;
+display: flex;
+flex-direction: column;
+padding: 10px;
+border-radius: 20px;
+color: aliceblue;
+margin: auto;
+margin-top: 10px;
+box-shadow: 2px 2px 20px black;
+}
+.box2{
+    color: green;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 2px 2px 20px black;
+}
+.box3{
+    background-color: #61647E;
+    margin: auto;
+    margin-top: 10px;
+    width: 70%;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border-radius: 20px;
+    padding: 10px;
+    color: aliceblue;
+    gap: 5px;
+    box-shadow: 2px 2px 20px black;
+}
+.box4{
+    background-color: #8E91AB;
+    margin: auto;
+    margin-top: 10px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    padding: 10px;
+    gap: 50px;
+    box-shadow: 2px 2px 20px black;
+}
+.w3-input{
+    width: 70%;
+    border: none;
+    background-color: #8E91AB;
+    border-radius: 2px;
+    padding: 7px;
+    color: aliceblue;
+}
+.bnt{
+    color: white;
+    border: none;
+    background-color: #009F45;
+    border-radius: 20px;
+    padding: 10px;
+    width: 120%;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#cc{
+    background-color: #61647E;
+    color: #61647E;
+}
